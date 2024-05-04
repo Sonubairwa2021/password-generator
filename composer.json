@@ -1,0 +1,14 @@
+{
+    "name": "sdev/random-password-generator",
+    "description": "A simple utility function to generate random passwords.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
