@@ -9,7 +9,8 @@
             "email": "your.email@example.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "sdev/random-password-generator": "^1.0"
+       
     }
 }
