@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "sdev/random-password-generator": "dev-master"
+    }
 }
