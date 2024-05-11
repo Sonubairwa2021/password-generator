@@ -4,7 +4,7 @@ namespace RandomPasswordGenerator;
 
 class RandomPasswordGenerator
 {
-    public static function generate($length = 8)
+    public static function generate($length = 12)
     {
         $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+';
         $password = '';
