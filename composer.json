@@ -1,5 +1,5 @@
 {
-    "name": "Sonubairwa2021/password-generator",
+    "name": "sonubairwa2021/password-generator",
     "description": "A simple utility function to generate random passwords.",
     "type": "library",
     "license": "MIT",
@@ -22,7 +22,7 @@
         }
     },
     "keywords": ["password", "generator", "random"],
-    "homepage": "https://github.com/Sonubairwa2021/password-generator",
+    "homepage": "https://github.com/sonubairwa2021/password-generator",
     "extra": {
         "branch-alias": {
             "dev-main": "1.0.x-dev",
