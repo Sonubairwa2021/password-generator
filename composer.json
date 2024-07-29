@@ -12,10 +12,5 @@
     "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^9.0"
-    },
-   
-    "prefer-stable": true,
-    "require": {
-         "sdev/random-password-generator": "dev-main"
     }
 }
