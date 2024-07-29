@@ -1,5 +1,5 @@
 {
-    "name": "sdev/random-password-generator",
+    "name": "Sonubairwa2021/password-generator",
     "description": "A simple utility function to generate random passwords.",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sdev\\RandomPasswordGenerator\\": "src/"
+            "password-generator\\RandomPasswordGenerator\\": "src/"
         }
     },
     "keywords": ["password", "generator", "random"],
