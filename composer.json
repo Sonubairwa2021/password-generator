@@ -22,7 +22,7 @@
         }
     },
     "keywords": ["password", "generator", "random"],
-    "homepage": "https://github.com/sdev/random-password-generator",
+    "homepage": "https://github.com/Sonubairwa2021/password-generator",
     "extra": {
         "branch-alias": {
             "dev-main": "1.0.x-dev",
