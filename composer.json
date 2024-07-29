@@ -10,10 +10,23 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
     },
-    "require": {
-        "sdev/random-password-generator": "dev-main"
+    "autoload": {
+        "psr-4": {
+            "Sdev\\RandomPasswordGenerator\\": "src/"
+        }
+    },
+    "keywords": ["password", "generator", "random"],
+    "homepage": "https://github.com/sdev/random-password-generator",
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev",
+            "dev-dev": "1.1.x-dev"
+        }
     }
 }
