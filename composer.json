@@ -16,6 +16,6 @@
    
     "prefer-stable": true,
     "require": {
-        "sdev/random-password-generator": "*"
+         "sdev/random-password-generator": "dev-main"
     }
 }
